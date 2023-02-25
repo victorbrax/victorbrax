@@ -26,16 +26,16 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 
 ## Contact
 <a href="https://www.linkedin.com/in/victorbrax" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" target="_blank" alt="linkedin"/>  
+  <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=flat&logo=linkedin" target="_blank" alt="linkedin"/>  
   
 <a href="mailto:joaogomespcl@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail" alt="gmail"/>
+  <img src="https://img.shields.io/badge/-GMAIL-000000?style=flat&logo=gmail" alt="gmail"/>
   
 <a href="https://www.instagram.com/victorbrax/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram" alt="instagram"/>
+  <img src="https://img.shields.io/badge/-INSTAGRAM-000000?style=flat&logo=instagram" alt="instagram"/>
 
 <a href="https://wa.me/5519991753149?text=Ol%C3%A1%2C+estive+olhando+o+seu+perfil+no+GitHub" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat&logo=whatsapp" alt="whatsapp"/>
+<img src="https://img.shields.io/badge/-WHATSAPP-000000?style=flat&logo=whatsapp" alt="whatsapp"/>
 
 ## Languages
 ![PYTHON](https://img.shields.io/badge/Python-001117?style=for-the-badge&logo=python)&nbsp;
@@ -62,7 +62,6 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ![pycharm](https://img.shields.io/badge/pycharm-001117?style=for-the-badge&logo=pycharm)
 ![docker](https://img.shields.io/badge/docker-001117?style=for-the-badge&logo=docker)
 ![git](https://img.shields.io/badge/git-001117?style=for-the-badge&logo=git)
-![sap](https://img.shields.io/badge/sap-001117?style=for-the-badge&logo=sap)
 ![microsoftsharepoint](https://img.shields.io/badge/sharepoint-001117?style=for-the-badge&logo=microsoftsharepoint)
 ![microsoftonedrive](https://img.shields.io/badge/power_automate-001117?style=for-the-badge&logo=microsoftonedrive)
 ![sap](https://img.shields.io/badge/sap-001117?style=for-the-badge&logo=sap)
