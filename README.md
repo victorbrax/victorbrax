@@ -1,28 +1,20 @@
-## 🚀 About
-A collector of new habits and automations... 
 
-<a href="https://www.linkedin.com/in/victorbrax" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=linkedin" alt="linkedin"/>  
-<a href="mailto:joaogomespcl@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-joaogomespcl@gmail.com-000000?style=flat&logo=gmail" alt="gmail"/>
-</a>
-<a href="https://www.instagram.com/victorbrax/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<br/>
-<hr>
-<img align="right" height="240" src="https://i.imgur.com/NUoLYr7.gif" style="padding: 1.7rem 1.0rem; filter: drop-shadow(2px 2px 10px rgba(0,0,0,0.3));"/>
-</a>
-<hr>
+> **"A collector of new habits and automations... "**
 
+<div>
+<img align="right" height="350" src="https://i.imgur.com/NUoLYr7.gif"/>
+  
 ```py
-def victor_gomes(virtues):
-"""Hello, it's a pleasure to have you here ✋"""
+def victor_gomes(seniority_level):
+    """
+    Hello, it's a pleasure to have you here ✋
+    """
 
-    return f"I'm a {seniority_level} Python Developer 🐍"
+    return print(f"I'm a {seniority_level} Python Developer 🐍")
 
 victor_gomes("Junior")
 
+# > Life Variables
 age = 21
 location = "Campinas, Brazil 📍"
 studies = "Information Technology Management (4/6) 🎓"
@@ -30,39 +22,60 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 
 # If you're going to do it, do it right.
 ```
-<hr/>
-<br/>
+</div>
 
-## Backend Languages
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<a href="https://www.linkedin.com/in/victorbrax" target="_blank">
+  <img src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=linkedin" alt="linkedin"/>  
+<a href="mailto:joaogomespcl@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-joaogomespcl@gmail.com-000000?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<a href="https://www.instagram.com/victorbrax/" target="_blank">
+  <img src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<hr>
+
+</a>
+
+## Languages
+![PYTHON](https://img.shields.io/badge/Python-001117?style=for-the-badge&logo=python)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-001117?style=for-the-badge&logo=javascript)&nbsp;
+![microsoft](https://img.shields.io/badge/vba-001117?style=for-the-badge&logo=microsoftexcel&logoColor=green)&nbsp;
+![AHK](https://img.shields.io/badge/AHK-001117.svg?style=for-the-badge&logo=ros&logoColor=green)
+![HTML](https://img.shields.io/badge/HTML-001117?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-001117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+## Frameworks
+![flask](https://img.shields.io/badge/flask-001117?style=for-the-badge&logo=flask)&nbsp;
+![django](https://img.shields.io/badge/django-001117?style=for-the-badge&logo=django)&nbsp;
+![fastapi](https://img.shields.io/badge/fastapi-001117?style=for-the-badge&logo=fastapi)&nbsp;
+![bootstrap](https://img.shields.io/badge/bootstrap-001117?style=for-the-badge&logo=bootstrap)&nbsp;
+![flutter](https://img.shields.io/badge/flutter-001117?style=for-the-badge&logo=flutter)&nbsp;
 
 ## Databases
+![oracle](https://img.shields.io/badge/oracle-001117?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+![sqlite](https://img.shields.io/badge/sqlite-001117?style=for-the-badge&logo=sqlite)&nbsp;
+![mysql](https://img.shields.io/badge/mysql-001117?style=for-the-badge&logo=mysql)&nbsp;
 
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+## Tools | Systems | Frameworks | Librarys
+![visualstudio](https://img.shields.io/badge/vs_code-001117?style=for-the-badge&logo=visualstudio&logoColor=purple)
+![jupyter](https://img.shields.io/badge/jupyter-001117?style=for-the-badge&logo=jupyter)
+![pycharm](https://img.shields.io/badge/pycharm-001117?style=for-the-badge&logo=pycharm)
+![docker](https://img.shields.io/badge/docker-001117?style=for-the-badge&logo=docker)
+![git](https://img.shields.io/badge/git-001117?style=for-the-badge&logo=git)
+![sap](https://img.shields.io/badge/sap-001117?style=for-the-badge&logo=sap)
+![microsoftsharepoint](https://img.shields.io/badge/sharepoint-001117?style=for-the-badge&logo=microsoftsharepoint)
+![microsoftonedrive](https://img.shields.io/badge/power_automate-001117?style=for-the-badge&logo=microsoftonedrive)
+![sap](https://img.shields.io/badge/sap-001117?style=for-the-badge&logo=sap)
+![pandas](https://img.shields.io/badge/pandas-001117?style=for-the-badge&logo=pandas)
+![selenium](https://img.shields.io/badge/selenium-001117?style=for-the-badge&logo=selenium)
+![windows](https://img.shields.io/badge/windows-001117?style=for-the-badge&logo=windows&logoColor=blue)
+![linux](https://img.shields.io/badge/linux-001117?style=for-the-badge&logo=linux&logoColor=white)
+![linuxmint](https://img.shields.io/badge/mint-001117?style=for-the-badge&logo=linuxmint&logoColor=white)
+![suse](https://img.shields.io/badge/suse-001117?style=for-the-badge&logo=suse&logoColor=white)
 
-## Tools | Systems | Frameworks
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="40" width="40" src="https://www.svgrepo.com/show/331567/sap.svg">
-<img align="center" height="40" width="40" src="https://i.imgur.com/tjPOPhB.png">
-<img align="center" height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936">
+## Design
+![figma](https://img.shields.io/badge/figma-001117?style=for-the-badge&logo=figma)
+![adobephotoshop](https://img.shields.io/badge/photoshop-001117?style=for-the-badge&logo=adobephotoshop)
+![adobeillustrator](https://img.shields.io/badge/illustrator-001117?style=for-the-badge&logo=adobeillustrator)
+![adobeindesign](https://img.shields.io/badge/indesign-001117?style=for-the-badge&logo=adobeindesign)
+![adobepremiere](https://img.shields.io/badge/premiere-001117?style=for-the-badge&logo=adobepremierepro)
+![adobeaftereffects](https://img.shields.io/badge/after_effects-001117?style=for-the-badge&logo=adobeaftereffects)
