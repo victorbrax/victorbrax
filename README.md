@@ -27,13 +27,14 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ## Contact
 <a href="https://www.linkedin.com/in/victorbrax" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" target="_blank" alt="linkedin"/>  
+  
 <a href="mailto:joaogomespcl@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail" alt="gmail"/>
-</a>
+  
 <a href="https://www.instagram.com/victorbrax/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.instagram.com/victorbrax/](https://wa.me/5519991753149?text=Ol%C3%A1%2C+estive+olhando+o+seu+perfil+no+GitHub." target="_blank">
+
+<a href="https://wa.me/5519991753149?text=Ol%C3%A1%2C+estive+olhando+o+seu+perfil+no+GitHub" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat&logo=whatsapp" alt="whatsapp"/>
 
 ## Languages
