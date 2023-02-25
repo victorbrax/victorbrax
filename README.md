@@ -24,17 +24,17 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ```
 </div>
 
+## Contact
 <a href="https://www.linkedin.com/in/victorbrax" target="_blank">
-  <img src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=linkedin" alt="linkedin"/>  
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin" alt="linkedin"/>  
 <a href="mailto:joaogomespcl@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-joaogomespcl@gmail.com-000000?style=flat&logo=gmail" alt="gmail"/>
+  <img src="https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail" alt="gmail"/>
 </a>
 <a href="https://www.instagram.com/victorbrax/" target="_blank">
-  <img src="https://img.shields.io/badge/-victorbrax-000000?style=flat&logo=instagram" alt="instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<hr>
-
-</a>
+<a href="https://www.instagram.com/victorbrax/](https://wa.me/5519991753149?text=Ol%C3%A1%2C+estive+olhando+o+seu+perfil+no+GitHub." target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat&logo=whatsapp" alt="whatsapp"/>
 
 ## Languages
 ![PYTHON](https://img.shields.io/badge/Python-001117?style=for-the-badge&logo=python)&nbsp;
@@ -55,7 +55,7 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ![sqlite](https://img.shields.io/badge/sqlite-001117?style=for-the-badge&logo=sqlite)&nbsp;
 ![mysql](https://img.shields.io/badge/mysql-001117?style=for-the-badge&logo=mysql)&nbsp;
 
-## Tools | Systems | Frameworks | Librarys
+## Tools | Systems | Frameworks | Librarys | Design
 ![visualstudio](https://img.shields.io/badge/vs_code-001117?style=for-the-badge&logo=visualstudio&logoColor=purple)
 ![jupyter](https://img.shields.io/badge/jupyter-001117?style=for-the-badge&logo=jupyter)
 ![pycharm](https://img.shields.io/badge/pycharm-001117?style=for-the-badge&logo=pycharm)
@@ -71,11 +71,14 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ![linux](https://img.shields.io/badge/linux-001117?style=for-the-badge&logo=linux&logoColor=white)
 ![linuxmint](https://img.shields.io/badge/mint-001117?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![suse](https://img.shields.io/badge/suse-001117?style=for-the-badge&logo=suse&logoColor=white)
-
-## Design
 ![figma](https://img.shields.io/badge/figma-001117?style=for-the-badge&logo=figma)
 ![adobephotoshop](https://img.shields.io/badge/photoshop-001117?style=for-the-badge&logo=adobephotoshop)
 ![adobeillustrator](https://img.shields.io/badge/illustrator-001117?style=for-the-badge&logo=adobeillustrator)
 ![adobeindesign](https://img.shields.io/badge/indesign-001117?style=for-the-badge&logo=adobeindesign)
 ![adobepremiere](https://img.shields.io/badge/premiere-001117?style=for-the-badge&logo=adobepremierepro)
 ![adobeaftereffects](https://img.shields.io/badge/after_effects-001117?style=for-the-badge&logo=adobeaftereffects)
+
+## Professional References
+- [Curriculum Vitae](https://1drv.ms/b/s!Agyo16SBptBFjb41SuwAo2JZs3Zd7w?e=MUzlCp)
+- [Certifications](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
+ 
