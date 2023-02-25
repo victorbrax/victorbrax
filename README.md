@@ -2,7 +2,7 @@
 > **"A collector of new habits and automations... "**
 
 <div>
-<img align="right" height="350" src="https://i.imgur.com/NUoLYr7.gif"/>
+<img align="right" height="320" src="https://i.imgur.com/NUoLYr7.gif"/>
   
 ```py
 def victor_gomes(seniority_level):
