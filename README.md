@@ -66,6 +66,7 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 ![microsoftonedrive](https://img.shields.io/badge/power_automate-001117?style=for-the-badge&logo=microsoftonedrive)
 ![sap](https://img.shields.io/badge/sap-001117?style=for-the-badge&logo=sap)
 ![pandas](https://img.shields.io/badge/pandas-001117?style=for-the-badge&logo=pandas)
+![sqlalchemy](https://img.shields.io/badge/sqlalchemy-001117?style=for-the-badge&logo=sqlalchemy)
 ![selenium](https://img.shields.io/badge/selenium-001117?style=for-the-badge&logo=selenium)
 ![windows](https://img.shields.io/badge/windows-001117?style=for-the-badge&logo=windows&logoColor=blue)
 ![linux](https://img.shields.io/badge/linux-001117?style=for-the-badge&logo=linux&logoColor=white)
