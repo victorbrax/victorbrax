@@ -20,7 +20,7 @@ location = "Campinas, Brazil 📍"
 studies = "Information Technology Management (4/6) 🎓"
 actual_job = "Sencinet LatAm Brazil 🛰️"
 
-# If you're going to do it, do it right.
+# If you're going to do it, do it well.
 ```
 </div>
 
