@@ -1,5 +1,5 @@
 
-> **"A collector of new habits and automations... "**
+> **"Humans are  creatures of habit."**
 
 <div>
 <img align="right" height="310" src="https://i.imgur.com/NUoLYr7.gif"/>
