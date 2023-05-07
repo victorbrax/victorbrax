@@ -22,6 +22,8 @@ actual_job = "Sencinet LatAm Brazil 🛰️"
 
 # If you're going to do it, do it well.
 ```
+It's a great pleasure to have you here. My objective is to share only the projects that I consider truly significant. If you would like to learn more about my skills, please feel free to contact me.
+  
 </div>
 
 ## Contact
