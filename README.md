@@ -2,7 +2,7 @@
 > **"Humans are  creatures of habits."**
 
 <div>
-<img align="right" height="310" src="https://i.imgur.com/NUoLYr7.gif"/>
+<img align="right" height="308" src="https://i.imgur.com/NUoLYr7.gif"/>
   
 ```py
 def victor_gomes(seniority_level):
