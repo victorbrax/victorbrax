@@ -1,7 +1,7 @@
 > **"Humanos são criaturas de hábitos."**
 
 <div>
-<img align="right" height="408" src="https://i.imgur.com/NUoLYr7.gif"/>
+<img align="right" height="385" src="https://i.imgur.com/NUoLYr7.gif"/>
   
 ```py
 def victor_gomes(nivel_de_senioridade):
