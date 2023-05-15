@@ -90,6 +90,7 @@ It's a great pleasure to have you here. My objective is to share only the projec
 ![adobeaftereffects](https://img.shields.io/badge/after_effects-001117?style=for-the-badge&logo=adobeaftereffects)
 
 ## Professional References
-- [Curriculum Vitae](https://1drv.ms/b/s!Agyo16SBptBFjb41SuwAo2JZs3Zd7w?e=MUzlCp)
+- [Curriculum Vitae (Crazy)](https://1drv.ms/b/s!Agyo16SBptBFjb41SuwAo2JZs3Zd7w?e=1Zo1aX)
+- [Curriculum Vitae (Normal and in PT-BR)](https://1drv.ms/b/s!Agyo16SBptBFkb4pMgbfZ2nYmDKbqg?e=cJzyVZ)
 - [Certifications](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
  
