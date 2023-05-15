@@ -1,3 +1,11 @@
+<div align="center">
+  <table>
+  <tr>
+    <td><img height="24rem" src="https://raw.githubusercontent.com/victorbrax/filebrax-hub/c65a8072294d7b044a5909e03bcb0e7a7dcf6e3c/docs/br.svg" alt="brazilflag"></td>
+    <td>Você fala Português? Por favor, <a href="https://github.com/victorbrax/victorbrax/blob/main/LEIAME.md">clique aqui</a>.</td>
+  </tr>
+</table>
+</div>
 
 > **"Humans are  creatures of habits."**
 
