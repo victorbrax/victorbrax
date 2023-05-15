@@ -22,7 +22,7 @@ trabalho = "Sencinet LatAm Brasil LTDA 🛰️"
 # Se você for fazer algo, faça bem feito.
 ```
 ## Saudações!
-It's a great pleasure to have you here. My objective is to share only the projects that I consider truly significant. If you would like to learn more about my skills, please feel free to contact me.
+É um grande prazer tê-lo aqui. Meu objetivo é compartilhar apenas os projetos que considero verdadeiramente significativos. Se você deseja saber mais sobre minhas habilidades, sinta-se à vontade para entrar em contato comigo.
   
 </div>
 
@@ -82,5 +82,5 @@ It's a great pleasure to have you here. My objective is to share only the projec
 
 ## Referências Profissionais
 - [Curriculum Vitae](https://1drv.ms/b/s!Agyo16SBptBFjb41SuwAo2JZs3Zd7w?e=MUzlCp)
-- [Certifications](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
+- [Certificações](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
  
