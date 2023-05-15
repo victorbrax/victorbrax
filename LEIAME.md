@@ -92,5 +92,5 @@ trabalho = "Sencinet LatAm Brasil LTDA 🛰️"
 ## Referências Profissionais
 - [Curriculum Vitae (Maluco)](https://1drv.ms/b/s!Agyo16SBptBFkbw6eyXhqw5IgmmQng?e=KfaBcg)
 - [Curriculum Vitae (Normal)](https://1drv.ms/b/s!Agyo16SBptBFkb4pMgbfZ2nYmDKbqg?e=cJzyVZ)
-- [Certifications](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
+- [Certificações](https://1drv.ms/u/s!Agyo16SBptBFjb436Xr_SZlVZ4EODQ?e=adXmRQ)
  
