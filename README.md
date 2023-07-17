@@ -63,6 +63,7 @@ It's a great pleasure to have you here. My objective is to share only the projec
 ![flutter](https://img.shields.io/badge/flutter-001117?style=for-the-badge&logo=flutter)&nbsp;
 
 ## Databases
+![postgresql](https://img.shields.io/badge/postgresql-001117?style=for-the-badge&logo=postgresql)&nbsp;
 ![oracle](https://img.shields.io/badge/oracle-001117?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![sqlite](https://img.shields.io/badge/sqlite-001117?style=for-the-badge&logo=sqlite)&nbsp;
 ![mysql](https://img.shields.io/badge/mysql-001117?style=for-the-badge&logo=mysql)&nbsp;
