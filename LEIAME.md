@@ -18,7 +18,7 @@ def victor_gomes(nivel_de_senioridade):
     Olá, é um prazer ter você aqui. ✋
     """
 
-    return print(f"Eu sou um Desenvolvedor Python {nivel_de_senioridade} 🐍")
+    return print(f"Eu sou um Engenheiro de Dados Python {nivel_de_senioridade} 🐍")
 
 victor_gomes("Junior")
 
