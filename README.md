@@ -25,8 +25,8 @@ victor_gomes("Junior")
 # > Life Variables
 age = 21
 location = "Campinas, Brazil 📍"
-studies = "Information Technology Management (4/6) 🎓"
-actual_job = "Sencinet LatAm Brasil LTDA 🛰️"
+studies = "Information Technology Management (5/6) 🎓"
+actual_job = "Supermercados Covabra LTDA 🛰️"
 
 # If you're going to do it, do it well.
 ```
