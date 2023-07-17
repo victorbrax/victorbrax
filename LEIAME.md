@@ -26,7 +26,7 @@ victor_gomes("Junior")
 idade = 21
 local = "Campinas, Brasil 📍"
 estudos = "Gestão da Tecnologia da Informação (4/6) 🎓"
-trabalho = "Sencinet LatAm Brasil LTDA 🛰️"
+trabalho = "Supermercados Covabra LTDA 🛰️"
 
 # Se você for fazer algo, faça bem feito.
 ```
